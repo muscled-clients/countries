@@ -136,7 +136,16 @@
         {"name": "Wales", "short": "WLS"},
         {"name": "Northern Ireland", "short": "NIR"}
       ]
-    }    
-    
+    },
+    {
+      "country": "United Kingdom",
+      "short": "UK",
+      "provinces": [
+        {"name": "England", "short": "ENG"},
+        {"name": "Scotland", "short": "SCT"},
+        {"name": "Wales", "short": "WLS"},
+        {"name": "Northern Ireland", "short": "NIR"}
+      ]
+    }
   ]
   
