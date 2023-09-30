@@ -146,6 +146,251 @@
         {"name": "Wales", "short": "WLS"},
         {"name": "Northern Ireland", "short": "NIR"}
       ]
-    }
+    },
+    {
+      "country": "Afghanistan",
+      "short": "AF",
+      "provinces": [
+        {"name": "Badakhshan", "short": "Badakhshan"},
+        {"name": "Badghis", "short": "Badghis"},
+        {"name": "Baghlan", "short": "Baghlan"},
+        {"name": "Balkh", "short": "Balkh"},
+        {"name": "Bamyan", "short": "Bamyan"},
+        {"name": "Daykundi", "short": "Daykundi"},
+        {"name": "Farah", "short": "Farah"},
+        {"name": "Faryab", "short": "Faryab"},
+        {"name": "Ghazni", "short": "Ghazni"},
+        {"name": "Ghor", "short": "Ghor"},
+        {"name": "Helmand", "short": "Helmand"},
+        {"name": "Herat", "short": "Herat"},
+        {"name": "Jowzjan", "short": "Jowzjan"},
+        {"name": "Kabul", "short": "Kabul"},
+        {"name": "Kandahar", "short": "Kandahar"},
+        {"name": "Kapisa", "short": "Kapisa"},
+        {"name": "Khost", "short": "Khost"},
+        {"name": "Kunar", "short": "Kunar"},
+        {"name": "Kunduz", "short": "Kunduz"},
+        {"name": "Laghman", "short": "Laghman"},
+        {"name": "Logar", "short": "Logar"},
+        {"name": "Nangarhar", "short": "Nangarhar"},
+        {"name": "Nimroz", "short": "Nimroz"},
+        {"name": "Nuristan", "short": "Nuristan"},
+        {"name": "Paktia", "short": "Paktia"},
+        {"name": "Paktika", "short": "Paktika"},
+        {"name": "Panjshir", "short": "Panjshir"},
+        {"name": "Parwan", "short": "Parwan"},
+        {"name": "Samangan", "short": "Samangan"},
+        {"name": "Sar-e Pol", "short": "Sar-e Pol"},
+        {"name": "Takhar", "short": "Takhar"},
+        {"name": "Urozgan", "short": "Urozgan"},
+        {"name": "Wardak", "short": "Wardak"},
+        {"name": "Zabul", "short": "Zabul"}
+      ]
+    },
+    {
+      "country": "Åland Islands",
+      "short": "AX",
+      "provinces": [
+        {"name": "Brändö", "short": "Brändö"},
+        {"name": "Eckerö", "short": "Eckerö"},
+        {"name": "Finström", "short": "Finström"},
+        {"name": "Föglö", "short": "Föglö"},
+        {"name": "Geta", "short": "Geta"},
+        {"name": "Hammarland", "short": "Hammarland"},
+        {"name": "Jomala", "short": "Jomala"},
+        {"name": "Kumlinge", "short": "Kumlinge"},
+        {"name": "Kökar", "short": "Kökar"},
+        {"name": "Lemland", "short": "Lemland"},
+        {"name": "Lumparland", "short": "Lumparland"},
+        {"name": "Mariehamn", "short": "Mariehamn"},
+        {"name": "Saltvik", "short": "Saltvik"},
+        {"name": "Sottunga", "short": "Sottunga"},
+        {"name": "Sund", "short": "Sund"},
+        {"name": "Vårdö", "short": "Vårdö"}
+      ]
+    },
+    {
+      "country": "Albania",
+      "short": "AL",
+      "provinces": [
+        {"name": "Berat", "short": "Berat"},
+        {"name": "Dibër", "short": "Dibër"},
+        {"name": "Durrës", "short": "Durrës"},
+        {"name": "Elbasan", "short": "Elbasan"},
+        {"name": "Fier", "short": "Fier"},
+        {"name": "Gjirokastër", "short": "Gjirokastër"},
+        {"name": "Korçë", "short": "Korçë"},
+        {"name": "Kukës", "short": "Kukës"},
+        {"name": "Lezhë", "short": "Lezhë"},
+        {"name": "Shkodër", "short": "Shkodër"},
+        {"name": "Tiranë", "short": "Tiranë"},
+        {"name": "Vlorë", "short": "Vlorë"}
+      ]
+    },
+    {
+      "country": "Algeria",
+      "short": "DZ",
+      "provinces": [
+        {"name": "Adrar", "short": "Adrar"},
+        {"name": "Chlef", "short": "Chlef"},
+        {"name": "Laghouat", "short": "Laghouat"},
+        {"name": "Oum El Bouaghi", "short": "Oum El Bouaghi"},
+        {"name": "Batna", "short": "Batna"},
+        {"name": "Béjaïa", "short": "Béjaïa"},
+        {"name": "Biskra", "short": "Biskra"},
+        {"name": "Béchar", "short": "Béchar"},
+        {"name": "Blida", "short": "Blida"},
+        {"name": "Bouira", "short": "Bouira"},
+        {"name": "Tamanrasset", "short": "Tamanrasset"},
+        {"name": "Tébessa", "short": "Tébessa"},
+        {"name": "Tlemcen", "short": "Tlemcen"},
+        {"name": "Tiaret", "short": "Tiaret"},
+        {"name": "Tizi Ouzou", "short": "Tizi Ouzou"},
+        {"name": "Algiers", "short": "Algiers"},
+        {"name": "Djelfa", "short": "Djelfa"},
+        {"name": "Jijel", "short": "Jijel"},
+        {"name": "Sétif", "short": "Sétif"},
+        {"name": "Saïda", "short": "Saïda"},
+        {"name": "Skikda", "short": "Skikda"},
+        {"name": "Sidi Bel Abbès", "short": "Sidi Bel Abbès"},
+        {"name": "Annaba", "short": "Annaba"},
+        {"name": "Guelma", "short": "Guelma"},
+        {"name": "Constantine", "short": "Constantine"},
+        {"name": "Médéa", "short": "Médéa"},
+        {"name": "Mostaganem", "short": "Mostaganem"},
+        {"name": "M'Sila", "short": "M'Sila"},
+        {"name": "Mascara", "short": "Mascara"},
+        {"name": "Ouargla", "short": "Ouargla"},
+        {"name": "Oran", "short": "Oran"},
+        {"name": "El Bayadh", "short": "El Bayadh"},
+        {"name": "Illizi", "short": "Illizi"},
+        {"name": "Bordj Bou Arréridj", "short": "Bordj Bou Arréridj"},
+        {"name": "Boumerdès", "short": "Boumerdès"},
+        {"name": "El Tarf", "short": "El Tarf"},
+        {"name": "Tindouf", "short": "Tindouf"},
+        {"name": "Tissemsilt", "short": "Tissemsilt"},
+        {"name": "El Oued", "short": "El Oued"},
+        {"name": "Khenchela", "short": "Khenchela"},
+        {"name": "Souk Ahras", "short": "Souk Ahras"},
+        {"name": "Tipaza", "short": "Tipaza"},
+        {"name": "Mila", "short": "Mila"},
+        {"name": "Aïn Defla", "short": "Aïn Defla"},
+        {"name": "Naâma", "short": "Naâma"},
+        {"name": "Aïn Témouchent", "short": "Aïn Témouchent"},
+        {"name": "Ghardaïa", "short": "Ghardaïa"},
+        {"name": "Relizane", "short": "Relizane"}
+      ]
+    },
+    {
+      "country": "Andorra",
+      "short": "AD",
+      "provinces": [
+        {"name": "Andorra la Vella", "short": "Andorra la Vella"},
+        {"name": "Canillo", "short": "Canillo"},
+        {"name": "Encamp", "short": "Encamp"},
+        {"name": "Escaldes-Engordany", "short": "Escaldes-Engordany"},
+        {"name": "La Massana", "short": "La Massana"},
+        {"name": "Ordino", "short": "Ordino"},
+        {"name": "Sant Julià de Lòria", "short": "Sant Julià de Lòria"}
+      ]
+    },
+    {
+      "country": "Angola",
+      "short": "AO",
+      "provinces": [
+        {"name": "Bengo", "short": "Bengo"},
+        {"name": "Benguela", "short": "Benguela"},
+        {"name": "Bié", "short": "Bié"},
+        {"name": "Cabinda", "short": "Cabinda"},
+        {"name": "Cuando Cubango", "short": "Cuando Cubango"},
+        {"name": "Cuanza Norte", "short": "Cuanza Norte"},
+        {"name": "Cuanza Sul", "short": "Cuanza Sul"},
+        {"name": "Cunene", "short": "Cunene"},
+        {"name": "Huambo", "short": "Huambo"},
+        {"name": "Huíla", "short": "Huíla"},
+        {"name": "Luanda", "short": "Luanda"},
+        {"name": "Lunda Norte", "short": "Lunda Norte"},
+        {"name": "Lunda Sul", "short": "Lunda Sul"},
+        {"name": "Malanje", "short": "Malanje"},
+        {"name": "Moxico", "short": "Moxico"},
+        {"name": "Namibe", "short": "Namibe"},
+        {"name": "Uíge", "short": "Uíge"},
+        {"name": "Zaire", "short": "Zaire"}
+      ]
+    },
+    {
+      "country": "Anguilla",
+      "short": "AI",
+      "provinces": [
+        {"name": "Anguilla", "short": "Anguilla"}
+      ]
+    },
+    {
+      "country": "Antigua and Barbuda",
+      "short": "AG",
+      "provinces": [
+        {"name": "Saint George", "short": "Saint George"},
+        {"name": "Saint John", "short": "Saint John"},
+        {"name": "Saint Mary", "short": "Saint Mary"},
+        {"name": "Saint Paul", "short": "Saint Paul"},
+        {"name": "Saint Peter", "short": "Saint Peter"},
+        {"name": "Saint Philip", "short": "Saint Philip"},
+        {"name": "Barbuda", "short": "Barbuda"},
+        {"name": "Redonda", "short": "Redonda"}
+      ]
+    },
+    {
+      "country": "Argentina",
+      "short": "AR",
+      "provinces": [
+        {"name": "Buenos Aires", "short": "Buenos Aires"},
+        {"name": "Catamarca", "short": "Catamarca"},
+        {"name": "Chaco", "short": "Chaco"},
+        {"name": "Chubut", "short": "Chubut"},
+        {"name": "Córdoba", "short": "Córdoba"},
+        {"name": "Corrientes", "short": "Corrientes"},
+        {"name": "Entre Ríos", "short": "Entre Ríos"},
+        {"name": "Formosa", "short": "Formosa"},
+        {"name": "Jujuy", "short": "Jujuy"},
+        {"name": "La Pampa", "short": "La Pampa"},
+        {"name": "La Rioja", "short": "La Rioja"},
+        {"name": "Mendoza", "short": "Mendoza"},
+        {"name": "Misiones", "short": "Misiones"},
+        {"name": "Neuquén", "short": "Neuquén"},
+        {"name": "Río Negro", "short": "Río Negro"},
+        {"name": "Salta", "short": "Salta"},
+        {"name": "San Juan", "short": "San Juan"},
+        {"name": "San Luis", "short": "San Luis"},
+        {"name": "Santa Cruz", "short": "Santa Cruz"},
+        {"name": "Santa Fe", "short": "Santa Fe"},
+        {"name": "Santiago del Estero", "short": "Santiago del Estero"},
+        {"name": "Tierra del Fuego", "short": "Tierra del Fuego"},
+        {"name": "Tucumán", "short": "Tucumán"}
+      ]
+    },
+    {
+      "country": "Armenia",
+      "short": "AM",
+      "provinces": [
+        {"name": "Aragatsotn", "short": "Aragatsotn"},
+        {"name": "Ararat", "short": "Ararat"},
+        {"name": "Armavir", "short": "Armavir"},
+        {"name": "Gegharkunik", "short": "Gegharkunik"},
+        {"name": "Kotayk", "short": "Kotayk"},
+        {"name": "Lori", "short": "Lori"},
+        {"name": "Shirak", "short": "Shirak"},
+        {"name": "Syunik", "short": "Syunik"},
+        {"name": "Tavush", "short": "Tavush"},
+        {"name": "Vayots Dzor", "short": "Vayots Dzor"},
+        {"name": "Yerevan", "short": "Yerevan"}
+      ]
+    },
+    {
+      "country": "Aruba",
+      "short": "AW",
+      "provinces": [
+        {"name": "Aruba", "short": "Aruba"}
+      ]
+    }          
   ]
   
