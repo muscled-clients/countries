@@ -60,7 +60,71 @@
       "short": "CA",
       "provinces": [
         {"name": "Alberta", "short": "AB"},
-        {"name": "British Columbia", "short": "BC"}
+        {"name": "British Columbia", "short": "BC"},
+        {"name": "Manitoba", "short": "MB"},
+        {"name": "New Brunswick", "short": "NB"},
+        {"name": "Newfoundland and Labrador", "short": "NL"},
+        {"name": "Northwest Territories", "short": "NT"},
+        {"name": "Nova Scotia", "short": "NS"},
+        {"name": "Nunavut", "short": "NU"},
+        {"name": "Ontario", "short": "ON"},
+        {"name": "Prince Edward Island", "short": "PE"},
+        {"name": "Quebec", "short": "QC"},
+        {"name": "Saskatchewan", "short": "SK"},
+        {"name": "Yukon", "short": "YT"}
+      ]
+    },
+    {
+      "country": "Japan",
+      "short": "JP",
+      "provinces": [
+        {"name": "Hokkaido", "short": "01"},
+        {"name": "Aomori", "short": "02"},
+        {"name": "Iwate", "short": "03"},
+        {"name": "Miyagi", "short": "04"},
+        {"name": "Akita", "short": "05"},
+        {"name": "Yamagata", "short": "06"},
+        {"name": "Fukushima", "short": "07"},
+        {"name": "Ibaraki", "short": "08"},
+        {"name": "Tochigi", "short": "09"},
+        {"name": "Gunma", "short": "10"},
+        {"name": "Saitama", "short": "11"},
+        {"name": "Chiba", "short": "12"},
+        {"name": "Tokyo", "short": "13"},
+        {"name": "Kanagawa", "short": "14"},
+        {"name": "Niigata", "short": "15"},
+        {"name": "Toyama", "short": "16"},
+        {"name": "Ishikawa", "short": "17"},
+        {"name": "Fukui", "short": "18"},
+        {"name": "Yamanashi", "short": "19"},
+        {"name": "Nagano", "short": "20"},
+        {"name": "Gifu", "short": "21"},
+        {"name": "Shizuoka", "short": "22"},
+        {"name": "Aichi", "short": "23"},
+        {"name": "Mie", "short": "24"},
+        {"name": "Shiga", "short": "25"},
+        {"name": "Kyoto", "short": "26"},
+        {"name": "Osaka", "short": "27"},
+        {"name": "Hyogo", "short": "28"},
+        {"name": "Nara", "short": "29"},
+        {"name": "Wakayama", "short": "30"},
+        {"name": "Tottori", "short": "31"},
+        {"name": "Shimane", "short": "32"},
+        {"name": "Okayama", "short": "33"},
+        {"name": "Hiroshima", "short": "34"},
+        {"name": "Yamaguchi", "short": "35"},
+        {"name": "Tokushima", "short": "36"},
+        {"name": "Kagawa", "short": "37"},
+        {"name": "Ehime", "short": "38"},
+        {"name": "Kochi", "short": "39"},
+        {"name": "Fukuoka", "short": "40"},
+        {"name": "Saga", "short": "41"},
+        {"name": "Nagasaki", "short": "42"},
+        {"name": "Kumamoto", "short": "43"},
+        {"name": "Oita", "short": "44"},
+        {"name": "Miyazaki", "short": "45"},
+        {"name": "Kagoshima", "short": "46"},
+        {"name": "Okinawa", "short": "47"}
       ]
     },
     {
@@ -68,24 +132,11 @@
       "short": "UK",
       "provinces": [
         {"name": "England", "short": "ENG"},
-        {"name": "Scotland", "short": "SCT"}
+        {"name": "Scotland", "short": "SCT"},
+        {"name": "Wales", "short": "WLS"},
+        {"name": "Northern Ireland", "short": "NIR"}
       ]
-    },
-    {
-      "country": "Germany",
-      "short": "DE",
-      "provinces": [
-        {"name": "Bavaria", "short": "BY"},
-        {"name": "Berlin", "short": "BE"}
-      ]
-    },
-    {
-      "country": "Australia",
-      "short": "AU",
-      "provinces": [
-        {"name": "New South Wales", "short": "NSW"},
-        {"name": "Queensland", "short": "QLD"}
-      ]
-    }
+    }    
+    
   ]
   
