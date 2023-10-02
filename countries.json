@@ -391,6 +391,11 @@
       "provinces": [
         {"name": "Aruba", "short": "Aruba"}
       ]
-    }          
+    },
+    {
+      "country": "Ascension Island",
+      "short": "AC",
+      "provinces": []
+    }              
   ]
   
