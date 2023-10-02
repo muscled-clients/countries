@@ -321,9 +321,7 @@
     {
       "country": "Anguilla",
       "short": "AI",
-      "provinces": [
-        {"name": "Anguilla", "short": "Anguilla"}
-      ]
+      "provinces": []
     },
     {
       "country": "Antigua and Barbuda",
@@ -388,14 +386,510 @@
     {
       "country": "Aruba",
       "short": "AW",
-      "provinces": [
-        {"name": "Aruba", "short": "Aruba"}
-      ]
+      "provinces": []
     },
     {
       "country": "Ascension Island",
       "short": "AC",
       "provinces": []
-    }              
+    },
+    {
+      "country": "Australia",
+      "short": "AU",
+      "provinces": [
+        {"name": "New South Wales", "short": "NSW"},
+        {"name": "Victoria", "short": "VIC"},
+        {"name": "Queensland", "short": "QLD"},
+        {"name": "South Australia", "short": "SA"},
+        {"name": "Western Australia", "short": "WA"},
+        {"name": "Tasmania", "short": "TAS"},
+        {"name": "Australian Capital Territory", "short": "ACT"},
+        {"name": "Northern Territory", "short": "NT"}
+      ]
+    },
+    {
+      "country": "Austria",
+      "short": "AT",
+      "provinces": [
+        {"name": "Burgenland", "short": "Burgenland"},
+        {"name": "Carinthia", "short": "Carinthia"},
+        {"name": "Lower Austria", "short": "Lower Austria"},
+        {"name": "Upper Austria", "short": "Upper Austria"},
+        {"name": "Salzburg", "short": "Salzburg"},
+        {"name": "Styria", "short": "Styria"},
+        {"name": "Tyrol", "short": "Tyrol"},
+        {"name": "Vorarlberg", "short": "Vorarlberg"},
+        {"name": "Vienna", "short": "Vienna"}
+      ]
+    },
+    {
+      "country": "Azerbaijan",
+      "short": "AZ",
+      "provinces": [
+        {"name": "Absheron", "short": "Absheron"},
+        {"name": "Aghjabadi", "short": "Aghjabadi"},
+        {"name": "Agdam", "short": "Agdam"},
+        {"name": "Agdash", "short": "Agdash"},
+        {"name": "Agstafa", "short": "Agstafa"},
+        {"name": "Agsu", "short": "Agsu"},
+        {"name": "Astara", "short": "Astara"},
+        {"name": "Baku", "short": "Baku"},
+        {"name": "Balakan", "short": "Balakan"},
+        {"name": "Barda", "short": "Barda"},
+        {"name": "Beylagan", "short": "Beylagan"},
+        {"name": "Bilasuvar", "short": "Bilasuvar"},
+        {"name": "Dashkasan", "short": "Dashkasan"},
+        {"name": "Ganja", "short": "Ganja"},
+        {"name": "Gobustan", "short": "Gobustan"},
+        {"name": "Goranboy", "short": "Goranboy"},
+        {"name": "Goychay", "short": "Goychay"},
+        {"name": "Goygol", "short": "Goygol"},
+        {"name": "Hajigabul", "short": "Hajigabul"},
+        {"name": "Imishli", "short": "Imishli"},
+        {"name": "Ismailli", "short": "Ismailli"},
+        {"name": "Jabrayil", "short": "Jabrayil"},
+        {"name": "Jalilabad", "short": "Jalilabad"},
+        {"name": "Khachmaz", "short": "Khachmaz"},
+        {"name": "Kurdamir", "short": "Kurdamir"},
+        {"name": "Lankaran", "short": "Lankaran"},
+        {"name": "Lerik", "short": "Lerik"},
+        {"name": "Masally", "short": "Masally"},
+        {"name": "Mingachevir", "short": "Mingachevir"},
+        {"name": "Naftalan", "short": "Naftalan"},
+        {"name": "Nakhchivan", "short": "Nakhchivan"},
+        {"name": "Neftchala", "short": "Neftchala"},
+        {"name": "Oghuz", "short": "Oghuz"},
+        {"name": "Qabala", "short": "Qabala"},
+        {"name": "Qakh", "short": "Qakh"},
+        {"name": "Qazakh", "short": "Qazakh"},
+        {"name": "Quba", "short": "Quba"},
+        {"name": "Qusar", "short": "Qusar"},
+        {"name": "Saatly", "short": "Saatly"},
+        {"name": "Sabirabad", "short": "Sabirabad"},
+        {"name": "Salyan", "short": "Salyan"},
+        {"name": "Samukh", "short": "Samukh"},
+        {"name": "Shabran", "short": "Shabran"},
+        {"name": "Shaki", "short": "Shaki"},
+        {"name": "Shamakhi", "short": "Shamakhi"},
+        {"name": "Shamkir", "short": "Shamkir"},
+        {"name": "Shirvan", "short": "Shirvan"},
+        {"name": "Siazan", "short": "Siazan"},
+        {"name": "Sumqayit", "short": "Sumqayit"},
+        {"name": "Tartar", "short": "Tartar"},
+        {"name": "Tovuz", "short": "Tovuz"},
+        {"name": "Ujar", "short": "Ujar"},
+        {"name": "Yardimli", "short": "Yardimli"},
+        {"name": "Yevlakh", "short": "Yevlakh"},
+        {"name": "Zangilan", "short": "Zangilan"},
+        {"name": "Zaqatala", "short": "Zaqatala"},
+        {"name": "Zardab", "short": "Zardab"}
+      ]
+    },
+    {
+      "country": "Bahamas",
+      "short": "BS",
+      "provinces": [
+        {"name": "Acklins", "short": "Acklins"},
+        {"name": "Berry Islands", "short": "Berry Islands"},
+        {"name": "Bimini", "short": "Bimini"},
+        {"name": "Black Point", "short": "Black Point"},
+        {"name": "Cat Island", "short": "Cat Island"},
+        {"name": "Central Abaco", "short": "Central Abaco"},
+        {"name": "Central Andros", "short": "Central Andros"},
+        {"name": "Central Eleuthera", "short": "Central Eleuthera"},
+        {"name": "Crooked Island and Long Cay", "short": "Crooked Island and Long Cay"},
+        {"name": "East Grand Bahama", "short": "East Grand Bahama"},
+        {"name": "Exuma", "short": "Exuma"},
+        {"name": "Freeport", "short": "Freeport"},
+        {"name": "Grand Cay", "short": "Grand Cay"},
+        {"name": "Harbour Island", "short": "Harbour Island"},
+        {"name": "Hope Town", "short": "Hope Town"},
+        {"name": "Inagua", "short": "Inagua"},
+        {"name": "Long Island", "short": "Long Island"},
+        {"name": "Mangrove Cay", "short": "Mangrove Cay"},
+        {"name": "Mayaguana", "short": "Mayaguana"},
+        {"name": "Moore's Island", "short": "Moore's Island"},
+        {"name": "New Providence", "short": "New Providence"},
+        {"name": "North Abaco", "short": "North Abaco"},
+        {"name": "North Andros", "short": "North Andros"},
+        {"name": "North Eleuthera", "short": "North Eleuthera"},
+        {"name": "Ragged Island", "short": "Ragged Island"},
+        {"name": "Rum Cay", "short": "Rum Cay"},
+        {"name": "San Salvador", "short": "San Salvador"},
+        {"name": "South Abaco", "short": "South Abaco"},
+        {"name": "South Andros", "short": "South Andros"},
+        {"name": "South Eleuthera", "short": "South Eleuthera"},
+        {"name": "Spanish Wells", "short": "Spanish Wells"},
+        {"name": "West Grand Bahama", "short": "West Grand Bahama"}
+      ]
+    },
+    {
+      "country": "Bahrain",
+      "short": "BH",
+      "provinces": [
+        {"name": "Capital Governorate", "short": "Capital Governorate"},
+        {"name": "Muharraq Governorate", "short": "Muharraq Governorate"},
+        {"name": "Northern Governorate", "short": "Northern Governorate"},
+        {"name": "Southern Governorate", "short": "Southern Governorate"}
+      ]
+    },
+    {
+      "country": "Bangladesh",
+      "short": "BD",
+      "provinces": [
+        {"name": "Barisal", "short": "Barisal"},
+        {"name": "Chittagong", "short": "Chittagong"},
+        {"name": "Dhaka", "short": "Dhaka"},
+        {"name": "Khulna", "short": "Khulna"},
+        {"name": "Mymensingh", "short": "Mymensingh"},
+        {"name": "Rajshahi", "short": "Rajshahi"},
+        {"name": "Rangpur", "short": "Rangpur"},
+        {"name": "Sylhet", "short": "Sylhet"}
+      ]
+    }  ,
+    {
+      "country": "Barbados",
+      "short": "BB",
+      "provinces": [
+        {"name": "Christ Church", "short": "Christ Church"},
+        {"name": "Saint Andrew", "short": "Saint Andrew"},
+        {"name": "Saint George", "short": "Saint George"},
+        {"name": "Saint James", "short": "Saint James"},
+        {"name": "Saint John", "short": "Saint John"},
+        {"name": "Saint Joseph", "short": "Saint Joseph"},
+        {"name": "Saint Lucy", "short": "Saint Lucy"},
+        {"name": "Saint Michael", "short": "Saint Michael"},
+        {"name": "Saint Peter", "short": "Saint Peter"},
+        {"name": "Saint Philip", "short": "Saint Philip"},
+        {"name": "Saint Thomas", "short": "Saint Thomas"}
+      ]
+    },
+    {
+      "country": "Belarus",
+      "short": "BY",
+      "provinces": [
+        {"name": "Brest Region", "short": "Brest Region"},
+        {"name": "Gomel Region", "short": "Gomel Region"},
+        {"name": "Grodno Region", "short": "Grodno Region"},
+        {"name": "Minsk", "short": "Minsk"},
+        {"name": "Minsk Region", "short": "Minsk Region"},
+        {"name": "Mogilev Region", "short": "Mogilev Region"},
+        {"name": "Vitebsk Region", "short": "Vitebsk Region"}
+      ]
+    },
+    {
+      "country": "Belgium",
+      "short": "BE",
+      "provinces": [
+        {"name": "Brussels-Capital Region", "short": "Brussels-Capital Region"},
+        {"name": "Flemish Region", "short": "Flemish Region"},
+        {"name": "Walloon Region", "short": "Walloon Region"}
+      ]
+    },
+    {
+      "country": "Belize",
+      "short": "BZ",
+      "provinces": [
+        {"name": "Belize District", "short": "Belize District"},
+        {"name": "Cayo District", "short": "Cayo District"},
+        {"name": "Corozal District", "short": "Corozal District"},
+        {"name": "Orange Walk District", "short": "Orange Walk District"},
+        {"name": "Stann Creek District", "short": "Stann Creek District"},
+        {"name": "Toledo District", "short": "Toledo District"}
+      ]
+    },
+    {
+      "country": "Benin",
+      "short": "BJ",
+      "provinces": [
+        {"name": "Alibori", "short": "Alibori"},
+        {"name": "Atakora", "short": "Atakora"},
+        {"name": "Atlantique", "short": "Atlantique"},
+        {"name": "Borgou", "short": "Borgou"},
+        {"name": "Collines", "short": "Collines"},
+        {"name": "Donga", "short": "Donga"},
+        {"name": "Kouffo", "short": "Kouffo"},
+        {"name": "Littoral", "short": "Littoral"},
+        {"name": "Mono", "short": "Mono"},
+        {"name": "Ouémé", "short": "Ouémé"},
+        {"name": "Plateau", "short": "Plateau"},
+        {"name": "Zou", "short": "Zou"}
+      ]
+    },
+    {
+      "country": "Bermuda",
+      "short": "BM",
+      "provinces": [
+        {"name": "Devonshire Parish", "short": "Devonshire Parish"},
+        {"name": "Hamilton Parish", "short": "Hamilton Parish"},
+        {"name": "Paget Parish", "short": "Paget Parish"},
+        {"name": "Pembroke Parish", "short": "Pembroke Parish"},
+        {"name": "Sandys Parish", "short": "Sandys Parish"},
+        {"name": "Smith's Parish", "short": "Smith's Parish"},
+        {"name": "Southampton Parish", "short": "Southampton Parish"},
+        {"name": "St. George's Parish", "short": "St. George's Parish"},
+        {"name": "Warwick Parish", "short": "Warwick Parish"}
+      ]
+    },
+    {
+      "country": "Bhutan",
+      "short": "BT",
+      "provinces": [
+        {"name": "Bumthang", "short": "Bumthang"},
+        {"name": "Chukha", "short": "Chukha"},
+        {"name": "Dagana", "short": "Dagana"},
+        {"name": "Gasa", "short": "Gasa"},
+        {"name": "Haa", "short": "Haa"},
+        {"name": "Lhuntse", "short": "Lhuntse"},
+        {"name": "Mongar", "short": "Mongar"},
+        {"name": "Paro", "short": "Paro"},
+        {"name": "Pemagatshel", "short": "Pemagatshel"},
+        {"name": "Punakha", "short": "Punakha"},
+        {"name": "Samdrup Jongkhar", "short": "Samdrup Jongkhar"},
+        {"name": "Samtse", "short": "Samtse"},
+        {"name": "Sarpang", "short": "Sarpang"},
+        {"name": "Thimphu", "short": "Thimphu"},
+        {"name": "Trashigang", "short": "Trashigang"},
+        {"name": "Trashiyangtse", "short": "Trashiyangtse"},
+        {"name": "Trongsa", "short": "Trongsa"},
+        {"name": "Tsirang", "short": "Tsirang"},
+        {"name": "Wangdue Phodrang", "short": "Wangdue Phodrang"},
+        {"name": "Zhemgang", "short": "Zhemgang"}
+      ]
+    },
+    {
+      "country": "Bolivia",
+      "short": "BO",
+      "provinces": [
+        {"name": "Chuquisaca", "short": "Chuquisaca"},
+        {"name": "Cochabamba", "short": "Cochabamba"},
+        {"name": "El Beni", "short": "El Beni"},
+        {"name": "La Paz", "short": "La Paz"},
+        {"name": "Oruro", "short": "Oruro"},
+        {"name": "Pando", "short": "Pando"},
+        {"name": "Potosí", "short": "Potosí"},
+        {"name": "Santa Cruz", "short": "Santa Cruz"},
+        {"name": "Tarija", "short": "Tarija"}
+      ]
+    },
+    {
+      "country": "Bosnia and Herzegovina",
+      "short": "BA",
+      "provinces": [
+        {"name": "Federation of Bosnia and Herzegovina", "short": "Federation of Bosnia and Herzegovina"},
+        {"name": "Republika Srpska", "short": "Republika Srpska"},
+        {"name": "Brčko District", "short": "Brčko District"}
+      ]
+    },
+    {
+      "country": "Botswana",
+      "short": "BW",
+      "provinces": [
+        {"name": "Central", "short": "Central"},
+        {"name": "Ghanzi", "short": "Ghanzi"},
+        {"name": "Kgalagadi", "short": "Kgalagadi"},
+        {"name": "Kgatleng", "short": "Kgatleng"},
+        {"name": "Kweneng", "short": "Kweneng"},
+        {"name": "North-East", "short": "North-East"},
+        {"name": "North-West", "short": "North-West"},
+        {"name": "South-East", "short": "South-East"},
+        {"name": "Southern", "short": "Southern"},
+        {"name": "Francistown", "short": "Francistown"},
+        {"name": "Gaborone", "short": "Gaborone"},
+        {"name": "Jwaneng", "short": "Jwaneng"},
+        {"name": "Lobatse", "short": "Lobatse"},
+        {"name": "Selebi-Phikwe", "short": "Selebi-Phikwe"}
+      ]
+    },
+    {
+      "country": "Brazil",
+      "short": "BR",
+      "provinces": [
+        {"name": "Acre", "short": "Acre"},
+        {"name": "Alagoas", "short": "Alagoas"},
+        {"name": "Amapá", "short": "Amapá"},
+        {"name": "Amazonas", "short": "Amazonas"},
+        {"name": "Bahia", "short": "Bahia"},
+        {"name": "Ceará", "short": "Ceará"},
+        {"name": "Distrito Federal", "short": "Distrito Federal"},
+        {"name": "Espírito Santo", "short": "Espírito Santo"},
+        {"name": "Goiás", "short": "Goiás"},
+        {"name": "Maranhão", "short": "Maranhão"},
+        {"name": "Mato Grosso", "short": "Mato Grosso"},
+        {"name": "Mato Grosso do Sul", "short": "Mato Grosso do Sul"},
+        {"name": "Minas Gerais", "short": "Minas Gerais"},
+        {"name": "Pará", "short": "Pará"},
+        {"name": "Paraíba", "short": "Paraíba"},
+        {"name": "Paraná", "short": "Paraná"},
+        {"name": "Pernambuco", "short": "Pernambuco"},
+        {"name": "Piauí", "short": "Piauí"},
+        {"name": "Rio de Janeiro", "short": "Rio de Janeiro"},
+        {"name": "Rio Grande do Norte", "short": "Rio Grande do Norte"},
+        {"name": "Rio Grande do Sul", "short": "Rio Grande do Sul"},
+        {"name": "Rondônia", "short": "Rondônia"},
+        {"name": "Roraima", "short": "Roraima"},
+        {"name": "Santa Catarina", "short": "Santa Catarina"},
+        {"name": "São Paulo", "short": "São Paulo"},
+        {"name": "Sergipe", "short": "Sergipe"},
+        {"name": "Tocantins", "short": "Tocantins"}
+      ]
+    },
+    {
+      "country": "British Indian Ocean Territory",
+      "short": "IO",
+      "provinces": []
+    },
+    {
+      "country": "British Virgin Islands",
+      "short": "VG",
+      "provinces": [
+        {"name": "Anegada", "short": "Anegada"},
+        {"name": "Jost Van Dyke", "short": "Jost Van Dyke"},
+        {"name": "Tortola", "short": "Tortola"},
+        {"name": "Virgin Gorda", "short": "Virgin Gorda"}
+      ]
+    },
+    {
+      "country": "Brunei",
+      "short": "BN",
+      "provinces": [
+        {"name": "Belait", "short": "Belait"},
+        {"name": "Brunei-Muara", "short": "Brunei-Muara"},
+        {"name": "Temburong", "short": "Temburong"},
+        {"name": "Tutong", "short": "Tutong"}
+      ]
+    },
+    {
+      "country": "Bulgaria",
+      "short": "BG",
+      "provinces": [
+        {"name": "Blagoevgrad", "short": "Blagoevgrad"},
+        {"name": "Burgas", "short": "Burgas"},
+        {"name": "Dobrich", "short": "Dobrich"},
+        {"name": "Gabrovo", "short": "Gabrovo"},
+        {"name": "Haskovo", "short": "Haskovo"},
+        {"name": "Kardzhali", "short": "Kardzhali"},
+        {"name": "Kyustendil", "short": "Kyustendil"},
+        {"name": "Lovech", "short": "Lovech"},
+        {"name": "Montana", "short": "Montana"},
+        {"name": "Pazardzhik", "short": "Pazardzhik"},
+        {"name": "Pernik", "short": "Pernik"},
+        {"name": "Pleven", "short": "Pleven"},
+        {"name": "Plovdiv", "short": "Plovdiv"},
+        {"name": "Razgrad", "short": "Razgrad"},
+        {"name": "Ruse", "short": "Ruse"},
+        {"name": "Shumen", "short": "Shumen"},
+        {"name": "Silistra", "short": "Silistra"},
+        {"name": "Sliven", "short": "Sliven"},
+        {"name": "Smolyan", "short": "Smolyan"},
+        {"name": "Sofia City", "short": "Sofia City"},
+        {"name": "Sofia Province", "short": "Sofia Province"},
+        {"name": "Stara Zagora", "short": "Stara Zagora"},
+        {"name": "Targovishte", "short": "Targovishte"},
+        {"name": "Varna", "short": "Varna"},
+        {"name": "Veliko Tarnovo", "short": "Veliko Tarnovo"},
+        {"name": "Vidin", "short": "Vidin"},
+        {"name": "Vratsa", "short": "Vratsa"},
+        {"name": "Yambol", "short": "Yambol"}
+      ]
+    },
+    {
+      "country": "Burkina Faso",
+      "short": "BF",
+      "provinces": [
+        {"name": "Boucle du Mouhoun", "short": "Boucle du Mouhoun"},
+        {"name": "Cascades", "short": "Cascades"},
+        {"name": "Centre", "short": "Centre"},
+        {"name": "Centre-Est", "short": "Centre-Est"},
+        {"name": "Centre-Nord", "short": "Centre-Nord"},
+        {"name": "Centre-Ouest", "short": "Centre-Ouest"},
+        {"name": "Centre-Sud", "short": "Centre-Sud"},
+        {"name": "Est", "short": "Est"},
+        {"name": "Hauts-Bassins", "short": "Hauts-Bassins"},
+        {"name": "Nord", "short": "Nord"},
+        {"name": "Plateau-Central", "short": "Plateau-Central"},
+        {"name": "Sahel", "short": "Sahel"},
+        {"name": "Sud-Ouest", "short": "Sud-Ouest"}
+      ]
+    }     ,
+    {
+      "country": "Burundi",
+      "short": "BI",
+      "provinces": [
+        {"name": "Bubanza", "short": "Bubanza"},
+        {"name": "Bujumbura Mairie", "short": "Bujumbura Mairie"},
+        {"name": "Bujumbura Rural", "short": "Bujumbura Rural"},
+        {"name": "Bururi", "short": "Bururi"},
+        {"name": "Cankuzo", "short": "Cankuzo"},
+        {"name": "Cibitoke", "short": "Cibitoke"},
+        {"name": "Gitega", "short": "Gitega"},
+        {"name": "Karuzi", "short": "Karuzi"},
+        {"name": "Kayanza", "short": "Kayanza"},
+        {"name": "Kirundo", "short": "Kirundo"},
+        {"name": "Makamba", "short": "Makamba"},
+        {"name": "Muramvya", "short": "Muramvya"},
+        {"name": "Muyinga", "short": "Muyinga"},
+        {"name": "Mwaro", "short": "Mwaro"},
+        {"name": "Ngozi", "short": "Ngozi"},
+        {"name": "Rumonge", "short": "Rumonge"},
+        {"name": "Rutana", "short": "Rutana"},
+        {"name": "Ruyigi", "short": "Ruyigi"}
+      ]
+    },
+    {
+      "country": "Cameroon",
+      "short": "CM",
+      "provinces": [
+        {"name": "Adamawa", "short": "Adamawa"},
+        {"name": "Centre", "short": "Centre"},
+        {"name": "East", "short": "East"},
+        {"name": "Far North", "short": "Far North"},
+        {"name": "Littoral", "short": "Littoral"},
+        {"name": "North", "short": "North"},
+        {"name": "Northwest", "short": "Northwest"},
+        {"name": "South", "short": "South"},
+        {"name": "Southwest", "short": "Southwest"},
+        {"name": "West", "short": "West"}
+      ]
+    },
+    {
+      "country": "Cape Verde",
+      "short": "CV",
+      "provinces": [
+        {"name": "Boa Vista", "short": "Boa Vista"},
+        {"name": "Brava", "short": "Brava"},
+        {"name": "Maio", "short": "Maio"},
+        {"name": "Mosteiros", "short": "Mosteiros"},
+        {"name": "Paul", "short": "Paul"},
+        {"name": "Porto Novo", "short": "Porto Novo"},
+        {"name": "Praia", "short": "Praia"},
+        {"name": "Ribeira Brava", "short": "Ribeira Brava"},
+        {"name": "Ribeira Grande", "short": "Ribeira Grande"},
+        {"name": "Ribeira Grande de Santiago", "short": "Ribeira Grande de Santiago"},
+        {"name": "Sal", "short": "Sal"},
+        {"name": "Santa Catarina", "short": "Santa Catarina"},
+        {"name": "Santa Catarina do Fogo", "short": "Santa Catarina do Fogo"},
+        {"name": "Santa Cruz", "short": "Santa Cruz"},
+        {"name": "São Domingos", "short": "São Domingos"},
+        {"name": "São Filipe", "short": "São Filipe"},
+        {"name": "São Lourenço dos Órgãos", "short": "São Lourenço dos Órgãos"},
+        {"name": "São Miguel", "short": "São Miguel"},
+        {"name": "São Salvador do Mundo", "short": "São Salvador do Mundo"},
+        {"name": "São Vicente", "short": "São Vicente"},
+        {"name": "Tarrafal", "short": "Tarrafal"},
+        {"name": "Tarrafal de São Nicolau", "short": "Tarrafal de São Nicolau"}
+      ]
+    },
+    {
+      "country": "Caribbean Netherlands",
+      "short": "BQ",
+      "provinces": [
+        {"name": "Bonaire", "short": "Bonaire"},
+        {"name": "Saba", "short": "Saba"},
+        {"name": "Sint Eustatius", "short": "Sint Eustatius"}
+      ]
+    }
+    
+                             
   ]
   
